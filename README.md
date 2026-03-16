@@ -221,36 +221,7 @@ OpenAlex API
 ---
 
 # Project Structure
-traceslr-mvp
-│
-├── services
-│ └── orchestrator
-│ ├── agents
-│ │ agentA1_protocol.js
-│ │ agentA2_search.js
-│ │ agentA3_title.js
-│ │ agentA4_abstract.js
-│ │ agentA5_fulltext.js
-│ │ agentA6_prisma.js
-│ │
-│ ├── utils
-│ ├── orchestrator.js
-│ └── index.js
-│
-├── ui
-│ └── public
-│ index.html
-│ app.js
-│
-├── docs
-│ architecture.png
-│ agents.png
-│ gemini.png
-│ cloud.png
-│ prisma.png
-│
-└── README.md
-
+![Project](docs/project.png)
 
 ---
 
