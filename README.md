@@ -1,4 +1,5 @@
 # TraceSLR
+##Model gemini-3-flash-preview
 ### AI Multi-Agent System for Systematic Literature Reviews
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Platform-blue)
